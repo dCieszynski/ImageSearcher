@@ -2,7 +2,7 @@
   "name": "img-searcher",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dcieszynski.github.io/ImageSearcher/",
+  "homepage": "https://dcieszynski.github.io/ImageSearcher",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
